@@ -24,6 +24,6 @@ IDA_Pro_v8.3_Portable\python311> .\python.exe -m pip install google-generativeai
 
 In Pseudo Code: Right-click and select the plug-in to run.
 
-You can also use shortcut keys: Ctrl+Shift+H
+You can also use shortcut keys: Ctrl+Shift+G
 
 <img width="1272" alt="48aa08a4442347039fd4053b831b5a1" src="https://github.com/10cks/Gemini4IDA/assets/47177550/4bd96468-735a-4168-9a89-e95819c65673">
