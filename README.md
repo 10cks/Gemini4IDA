@@ -7,7 +7,9 @@ https://makersuite.google.com/app/apikey
 
 ![image](https://github.com/10cks/Gemini4IDA/assets/47177550/d4aebebe-15c3-404f-adb9-1d0b9bcf447a)
 
-## Input key and proxy
+## Edit key and proxy
+
+Edit Gemini4IDA.py and move this file into plugins:
 
 ![image](https://github.com/10cks/Gemini4IDA/assets/47177550/7e14c06b-ee63-43d8-8b2e-9b3433549522)
 
